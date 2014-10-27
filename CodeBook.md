@@ -32,5 +32,5 @@
 
 4. The set of variables that were estimated from these signals are:
 
-  - mean(): Average of mean value
-  - std(): Average of standard deviation
+  - mean(): **Average** of mean value
+  - std(): **Average** of standard deviation
