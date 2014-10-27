@@ -1,6 +1,6 @@
 library("reshape2")
 
-# read features information and activity labels
+# read feature information and activity labels
 features <- read.csv("./UCI HAR Dataset/features.txt", sep="", header=F, strip.white=T, stringsAsFactors=F)
 activity_labels <- read.csv("./UCI HAR Dataset/activity_labels.txt", sep="", header=F, strip.white=T, stringsAsFactors=F)
 
